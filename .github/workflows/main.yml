@@ -10,7 +10,7 @@ jobs:
 
     steps: 
       - name: Pooja
-        run: echo "Disable Workflow Devops"
+        run: echo "Disable Workflow"
         
 
 
